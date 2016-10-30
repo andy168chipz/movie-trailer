@@ -22,7 +22,7 @@ python entertainment_center.py
 ### Author
 * Andy Chou
 
-This project is part of the [Udacity Full Stack Program](https://classroom.udacity.com/nanodegrees/nd004/syllabus)
+This project uses code from and is part of the [Udacity Full Stack Program](https://classroom.udacity.com/nanodegrees/nd004/syllabus)
 
 ### TODO
 * Add an API to fetch trailers and posters from [imdb](imdb.com) or some other websites
